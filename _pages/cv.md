@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Control Science and Engineering, Zhejiang University, 2020
 
-Work experience
+Grades And Rewards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* GPA 4.585/5(7th in 126)
+* Academic Excellency Award of ZJU
+* Zhejiang University Scholarship - Third Prize
+* National Undergraduate Mathematics Competition - First Prize
+* Energy Conservation and Emission Reduction Competition - Third Prize
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Embedded System Development: C/C++
+  * App Development: C#
+  * Scientific Calculation & Simulation: python, matlab
+* Learnt Knowledge
+  * Basic Signal Analyzing & Processing Methods: FFT, STFT, Kalman Filter, etc
+  * Basic Understanding of Computer Network: HTTP, TCP/IP, CSMA/CD, etc
+  * Basic System Analyse Methods: Transfer function, State space, etc
+  * Basic Control Theories: PID Control, Routh Criterion, Lyapunov Theory, etc
+* English
+  * CET6(College English Test) 557
+  * Preparing for TOEFL
 
-Publications
+Experiences
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Research on Relationship between Network Topology and Deep Learning Performance, 2021-now
+* Active People Detection Based on WIFI-CSI Signal, 2021
+* Development of a Protocol Transform Script used in Industrial Network, 2021
+* SRTP(student research training program) on Sports Posture Recognition, Reconstruction and Scoring System, 2021-now
+
