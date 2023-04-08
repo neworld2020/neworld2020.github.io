@@ -54,7 +54,7 @@ Here are some typical examples of projects I've done. It contains projects relat
 > **Introduction**
 > Channel State Information(CSI), according to OSI Model, is a kind of physical layer information. It contains information about the propagation process of WIFI signal, and is often used to indoor location. In this project, I plan to use CSI to detect whether there are active persons in a space, like a classroom.
 >
-> Its principle is really simple: we set an AP and Station connected to each other, when there are someone walk between them, the WIFI signal will be disturbed. We can detect such disturbance as a signal meaning there are active things moving between them.
+> Its principle is really simple: we set an AP and Station connected to each other, when there are someone walk between them, the WIFI signal will be disturbed. We can detect such disturbance as a signal meaning there are active things moving between them. You can find my experiment video at [Active People Detection](https://youtu.be/IXZZNA0fULc).
 >
 > **Type**
 > Temporary Project

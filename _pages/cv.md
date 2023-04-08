@@ -39,7 +39,7 @@ Skills
 Experiences
 ======
 * Research on Relationship between Network Topology and Deep Learning Performance, 2021-now
-* Active People Detection Based on WIFI-CSI Signal, 2021
+* Active People Detection Based on WIFI-CSI Signal, 2021 (video: [Active People Detection](https://youtu.be/IXZZNA0fULc))
 * Development of a Protocol Transform Script used in Industrial Network, 2021
 * SRTP(student research training program) on Sports Posture Recognition, Reconstruction and Scoring System, 2021-now
 
